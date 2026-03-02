@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+.env
+/dist/
+# Logs
+logs/
+*.log
+# Environment Variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Build output
+dist/
+build/
+# Dependency directories
+jspm_packages/
+# TypeScript compiled output
+out-tsc/
+
+# Optional npm cache directory
+.npm/
+# Mac System Files
+.DS_Store
+# Coverage directory used by tools like istanbul
+coverage/
+# IDEA projects
+.idea/
